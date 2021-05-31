@@ -4,7 +4,7 @@
 
 Example:
 ```py
-from cactus-generation import generate
+from cactusgen import generate
 
 chunk_seed = 1234
 height = generate(chunk_seed)
@@ -14,5 +14,5 @@ print(height) # -> 2
 ### Installation
 
 ```
-pip3 install git+http://github.com/vcokltfre/cactus-generation
+pip3 install cactusgen
 ```

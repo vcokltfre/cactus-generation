@@ -1,4 +1,4 @@
-from javarandom import Random
+from cactusgen.jrandom import Random
 
 
 class CactusSim:
