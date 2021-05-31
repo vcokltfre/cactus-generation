@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "cactusgen"
-version = "1.0.0"
+version = "1.0.1"
 description = "Minecraft cactus generation simulation in python"
 authors = ["vcokltfre <vcokltfre@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.6"
 
 [tool.poetry.dev-dependencies]
 
